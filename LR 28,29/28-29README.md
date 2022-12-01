@@ -13,7 +13,7 @@
 
 Был написан скрипт для анимации кнопок при их нажатии.
 
-Листинг 28.1 Button_Script.cs
+# Листинг 28.1 Button_Script.cs
 
 using System.Collections;
 using System.Collections.Generic;
@@ -33,7 +33,7 @@ public class Button_Script : MonoBehaviour
 }
 Был написан скрипт для реализации жизней игрока.
  
-Листинг 28.2 LifeSystem.cs
+# Листинг 28.2 LifeSystem.cs
  
 using System.Collections;
 using System.Collections.Generic;
@@ -126,7 +126,7 @@ public class LifeSystem : MonoBehaviour
 }
 Был написан скрипт для подсчёта очков и изменения лучшего счёта.
  
-Листинг 28.3 ScoreScript.cs
+# Листинг 28.3 ScoreScript.cs
  
 using System.Collections;
 using System.Collections.Generic;
@@ -152,7 +152,7 @@ public class ScoreScript : MonoBehaviour
 }
 Был написан скрипт, отвечающий за уничтожение врагов, их распознование
                                                
-Листинг 28.4 Ant_Script.cs
+# Листинг 28.4 Ant_Script.cs
                                                
 using System.Collections;
 using System.Collections.Generic;
@@ -222,13 +222,13 @@ public class Ant_Script : MonoBehaviour
         }
     }
 }
-![1Tl_061Tg2I](https://user-images.githubusercontent.com/119409903/205106017-58b8d7cf-0c88-446f-bf11-fa314803cc09.jpg)
-
-Рисунок 2 иерархия
+# ![1Tl_061Tg2I](https://user-images.githubusercontent.com/119409903/205106017-58b8d7cf-0c88-446f-bf11-fa314803cc09.jpg)
+      Рисунок 28.2: Иерархия
+ 
  
 Был написан скрипт для управления UI игрока, управления паузой и спавнерами противников, а так же было реализовано поражение игрока.
  
-Листинг 28.5 GameManager.cs
+# Листинг 28.5 GameManager.cs
  
 using System.Collections;
 using System.Collections.Generic;
@@ -309,13 +309,13 @@ public class GameManager : MonoBehaviour
         spawner[5].SetActive(false);
     }
 }
-![ANc6tzBLVLo](https://user-images.githubusercontent.com/119409903/205106079-0a902d88-52cf-42ec-bdde-d31b451d9338.jpg)
+# ![ANc6tzBLVLo](https://user-images.githubusercontent.com/119409903/205106079-0a902d88-52cf-42ec-bdde-d31b451d9338.jpg)
+  
+                  Рисунок 28.3 Гейм Овер
 
-рисунок 3 гейм овер
- 
 Был написан скрипт, который отвечает за функционирование спавнеров противников и дополнительных жизней игрока.
  
-Листинг 28.6 Spawner.cs
+# Листинг 28.6 Spawner.cs
  
 using System.Collections;
 using System.Collections.Generic;
@@ -353,18 +353,15 @@ public class Spawner : MonoBehaviour
     }
 }
  
-![GCgsmrW8QhU](https://user-images.githubusercontent.com/119409903/205106176-45145cd0-1520-4f2a-893b-3992b013e5b6.jpg)
-
-рисунок 4 рекорд
+# ![GCgsmrW8QhU](https://user-images.githubusercontent.com/119409903/205106176-45145cd0-1520-4f2a-893b-3992b013e5b6.jpg)
+      Рисунок 28.4 Рекорд
  
-![l1ucc3uqUXg](https://user-images.githubusercontent.com/119409903/205106238-79ff4b77-62d5-476f-a01e-0ace8b4d3f5f.jpg)
-
-рисунок 5 игра
+# ![l1ucc3uqUXg](https://user-images.githubusercontent.com/119409903/205106238-79ff4b77-62d5-476f-a01e-0ace8b4d3f5f.jpg)
+      Рисунок 28.5 Игра
  
-![Wd1prRgtLhA](https://user-images.githubusercontent.com/119409903/205106301-2ea2c201-c7fe-43c0-9ef9-bf01af39c32b.jpg)
+# ![Wd1prRgtLhA](https://user-images.githubusercontent.com/119409903/205106301-2ea2c201-c7fe-43c0-9ef9-bf01af39c32b.jpg)
+      Рисунок 28.6 игровой процесс
 
-рисунок 6 игровой процесс
- 
-2. Вывод.
+# 2. Вывод.
  
 В ходе выполненной работы была сделана игра Ant Smasher, в которой требуется защищать еду от муравьёв.
