@@ -7,32 +7,26 @@
 
 Название работы: Разработка проекта Timer
 
-⦁	Выполнение работы
+# ![image](https://user-images.githubusercontent.com/119409903/205133743-195ef532-4c8f-4a81-a865-c680d98ead94.png)
+   Рисунок 11.1 Несколько моделей таймеров
+   
+# ⦁	Скрипт Timer
 
-Было создано несколько моделей разных таймеров.
- 
-Рисунок 1
-
-![image](https://user-images.githubusercontent.com/119409903/205133743-195ef532-4c8f-4a81-a865-c680d98ead94.png)
-
-⦁	Скрипт Timer
 Код функционирования таймера.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
-
 public class Timer : MonoBehaviour
 {
+
     [Header("Timer UI references :")]
     [SerializeField] private Image uiFillImage;
     [SerializeField] private Text uiText;
-
     public int Duration { get; private set; }
-
     public bool IsPaused { get; private set; }
-
     private int remainingDuration;
 
     private UnityAction onTimerBeginAction;
@@ -142,7 +136,7 @@ public class Timer : MonoBehaviour
     }
 }
 
-⦁	Скрипт Demo
+# ⦁	Скрипт Demo
 Скрипт для управления таймера.
 using System.Collections;
 using System.Collections.Generic;
@@ -150,6 +144,7 @@ using UnityEngine;
 
 public class Demo : MonoBehaviour
 {
+
     [SerializeField] Timer timer1;
     [SerializeField] Timer timer2;
     [SerializeField] Timer timer3;
