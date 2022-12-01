@@ -33,7 +33,7 @@ public class Button_Script : MonoBehaviour
 }
 Был написан скрипт для реализации жизней игрока.
  
-# Листинг 28.2 LifeSystem.cs
+Листинг 28.2 LifeSystem.cs
  
 using System.Collections;
 using System.Collections.Generic;
