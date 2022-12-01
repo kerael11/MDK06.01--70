@@ -15,7 +15,7 @@
 # ![image](https://user-images.githubusercontent.com/119409903/205110383-2486d877-b7d0-43c6-92d5-e490f44a30f7.png)
       Рисунок 16.3 Настраиваем Background, привязываем бг к размеру экрана. И пишем с помощью Canvas название своей игры на нашем фоне.
 
-# ![image](https://user-images.githubusercontent.com/119409903/205110553-a3d4072f-cb66-44de-93dc-d9f070c0ddec.png)
+# ![image](https://user-images.githubusercontent.com/119409903/205143902-76919643-d481-48a8-a58e-2c1abc026909.png)
       Рисунок 16.4 Добавляем спрайты кнопок которые будут использоваться в нашем меню.
  
 # ![image](https://user-images.githubusercontent.com/119409903/205110832-624428bf-4e4c-4619-a282-8a4d22bdbcb1.png)
