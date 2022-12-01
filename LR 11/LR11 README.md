@@ -15,11 +15,17 @@
 Код функционирования таймера.
 
 using System.Collections;
+
 using System.Collections.Generic;
+
 using UnityEngine;
+
 using UnityEngine.UI;
+
 using UnityEngine.Events;
+
 public class Timer : MonoBehaviour
+
 {
 
     [Header("Timer UI references :")]
@@ -137,9 +143,13 @@ public class Timer : MonoBehaviour
 }
 
 # ⦁	Скрипт Demo
+
 Скрипт для управления таймера.
+
 using System.Collections;
+
 using System.Collections.Generic;
+
 using UnityEngine;
 
 public class Demo : MonoBehaviour
