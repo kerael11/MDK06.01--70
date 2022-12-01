@@ -9,7 +9,7 @@
 
 # ![Screenshot_3](https://user-images.githubusercontent.com/119409903/205105573-54d09958-a057-41fc-a0b6-2e3a3aeeae66.png)
                Рисунок 28.1 - Постройка сцены.
-Рисунок 1 – Постройка сцены.
+
 
 Был написан скрипт для анимации кнопок при их нажатии.
 
@@ -33,7 +33,7 @@ public class Button_Script : MonoBehaviour
 }
 Был написан скрипт для реализации жизней игрока.
  
-Листинг 28.2 LifeSystem.cs
+# Листинг 28.2 LifeSystem.cs
  
 using System.Collections;
 using System.Collections.Generic;
