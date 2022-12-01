@@ -10,8 +10,11 @@
  ![Screenshot_3](https://user-images.githubusercontent.com/119409903/205105573-54d09958-a057-41fc-a0b6-2e3a3aeeae66.png)
 
 Рисунок 1 – Постройка сцены.
+
 Был написан скрипт для анимации кнопок при их нажатии.
+
 Листинг 28.1 Button_Script.cs
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -29,7 +32,9 @@ public class Button_Script : MonoBehaviour
     }
 }
 Был написан скрипт для реализации жизней игрока.
+ 
 Листинг 28.2 LifeSystem.cs
+ 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -95,7 +100,9 @@ public class LifeSystem : MonoBehaviour
     }
 }
 Был написан скрипт для подсчёта очков и изменения лучшего счёта.
+ 
 Листинг 28.3 ScoreScript.cs
+ 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -119,7 +126,9 @@ public class ScoreScript : MonoBehaviour
     }
 }
 Был написан скрипт, отвечающий за уничтожение врагов, их распознование
+                                               
 Листинг 28.4 Ant_Script.cs
+                                               
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -191,8 +200,11 @@ public class Ant_Script : MonoBehaviour
 ![1Tl_061Tg2I](https://user-images.githubusercontent.com/119409903/205106017-58b8d7cf-0c88-446f-bf11-fa314803cc09.jpg)
 
 Рисунок 2 иерархия
+ 
 Был написан скрипт для управления UI игрока, управления паузой и спавнерами противников, а так же было реализовано поражение игрока.
+ 
 Листинг 28.5 GameManager.cs
+ 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -275,8 +287,11 @@ public class GameManager : MonoBehaviour
 ![ANc6tzBLVLo](https://user-images.githubusercontent.com/119409903/205106079-0a902d88-52cf-42ec-bdde-d31b451d9338.jpg)
 
 рисунок 3 гейм овер
+ 
 Был написан скрипт, который отвечает за функционирование спавнеров противников и дополнительных жизней игрока.
+ 
 Листинг 28.6 Spawner.cs
+ 
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -312,14 +327,19 @@ public class Spawner : MonoBehaviour
         }
     }
 }
+ 
 ![GCgsmrW8QhU](https://user-images.githubusercontent.com/119409903/205106176-45145cd0-1520-4f2a-893b-3992b013e5b6.jpg)
 
 рисунок 4 рекорд
+ 
 ![l1ucc3uqUXg](https://user-images.githubusercontent.com/119409903/205106238-79ff4b77-62d5-476f-a01e-0ace8b4d3f5f.jpg)
 
 рисунок 5 игра
+ 
 ![Wd1prRgtLhA](https://user-images.githubusercontent.com/119409903/205106301-2ea2c201-c7fe-43c0-9ef9-bf01af39c32b.jpg)
 
 рисунок 6 игровой процесс
+ 
 2. Вывод.
+ 
 В ходе выполненной работы была сделана игра Ant Smasher, в которой требуется защищать еду от муравьёв.
