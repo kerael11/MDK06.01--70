@@ -18,7 +18,7 @@
 # ![image](https://user-images.githubusercontent.com/119409903/205143902-76919643-d481-48a8-a58e-2c1abc026909.png)
       Рисунок 16.4 Добавляем спрайты кнопок которые будут использоваться в нашем меню.
  
-# ![image](https://user-images.githubusercontent.com/119409903/205110832-624428bf-4e4c-4619-a282-8a4d22bdbcb1.png)
+# ![image](https://user-images.githubusercontent.com/119409903/205144125-5badb51f-01f3-49c9-8491-fda370463070.png)
       Рисунок 16.5 Делаем возможным создание анимаций на кнопки с помощью настроек кнопки
 
 # ![image](https://user-images.githubusercontent.com/119409903/205110869-20cc2718-127d-4b01-8bca-4c48f3c209d9.png)
