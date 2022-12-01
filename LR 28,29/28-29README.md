@@ -7,8 +7,8 @@
 
 Название работы: Разработка игры Ant Smasher
 
- ![Screenshot_3](https://user-images.githubusercontent.com/119409903/205105573-54d09958-a057-41fc-a0b6-2e3a3aeeae66.png)
-
+# ![Screenshot_3](https://user-images.githubusercontent.com/119409903/205105573-54d09958-a057-41fc-a0b6-2e3a3aeeae66.png)
+               Рисунок 9.1 - Рабочая среда для создания игры.
 Рисунок 1 – Постройка сцены.
 
 Был написан скрипт для анимации кнопок при их нажатии.
