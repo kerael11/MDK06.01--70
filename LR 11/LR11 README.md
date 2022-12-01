@@ -12,6 +12,7 @@
 Было создано несколько моделей разных таймеров.
  
 Рисунок 1
+
 ![image](https://user-images.githubusercontent.com/119409903/205133743-195ef532-4c8f-4a81-a865-c680d98ead94.png)
 
 ⦁	Скрипт Timer
