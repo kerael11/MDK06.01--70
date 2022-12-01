@@ -6,7 +6,7 @@
 
 Название работы: разработка игры Space Shooter
 
-# ![Screenshot-4.png](https://i.postimg.cc/MG6935gV/Screenshot-4.png)]
+# ![Screenshot-4.png](https://i.postimg.cc/MG6935gV/Screenshot-4.png)
         Рисунок 12.1 Компоненты программы
 
 # ![Screenshot_1](https://user-images.githubusercontent.com/119409903/205104023-88dacf51-41d6-4c86-8ad8-c6bbee4d21b7.png)
