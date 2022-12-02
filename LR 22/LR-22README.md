@@ -15,7 +15,7 @@
      
 # ![Screenshot-9.png](https://i.postimg.cc/Prvccdy7/Screenshot-9.png)
 
-     Рисунок 22.3 - 
+     Рисунок 22.3 - добавили игрока на игровую сцену
      
 # ![Screenshot-10.png](https://i.postimg.cc/YCcVBTyC/Screenshot-10.png)
 
