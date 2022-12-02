@@ -1,12 +1,23 @@
-
-Выполнил: Комлев Д.А.
+Выполнил: Моисеев П.Д
 
 Группа: ЭВТ-70
 
-Версия Unity:2022.1.20f1
+Игровой движок: Unity 2022.1.20f1
 
-Название работы: Разработка проекта Timer
+Лабораторная работа 11 "Разработка таймера"
 
-# ![image](https://user-images.githubusercontent.com/119409903/205133743-195ef532-4c8f-4a81-a865-c680d98ead94.png)
-               Рисунок 11.1 Несколько моделей таймеров
-   
+# [![Screenshot-10.png](https://i.postimg.cc/P5PNQGk8/Screenshot-10.png)](https://postimg.cc/Xr6VnzqV)
+                Рисунок 11.1 - Главная игровая сцена
+                
+# [![Screenshot-12.png](https://i.postimg.cc/xCFL1j0t/Screenshot-12.png)](https://postimg.cc/ygcDfH3Z)
+                Рисунок 11.2 - Основые файлы игры
+                
+# [![Screenshot-9.png](https://i.postimg.cc/59C3pGbT/Screenshot-9.png)](https://postimg.cc/YjtYCd4z)![Uploading Screenshot_11.png…]()
+
+                Рисунок 11.3 - Вид игры
+                
+# [![Screenshot-11.png](https://i.postimg.cc/X71t69SC/Screenshot-11.png)](https://postimg.cc/fJX8xtbz)
+                Рисунок 11.4 - Иерархия игры
+                
+# [![Screenshot-13.png](https://i.postimg.cc/T1XnB7Qc/Screenshot-13.png)](https://postimg.cc/mz8cHSvc)
+                Рисунок 11.5 - Добавление остльных таймеров 
