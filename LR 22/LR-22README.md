@@ -23,4 +23,4 @@
      
 # ![Screenshot-11.png](https://i.postimg.cc/L51czS0G/Screenshot-11.png) 
 
-     Рисунок 22.5 -
+     Рисунок 22.5 - добавили скрипт на двоих игроков
