@@ -8,4 +8,4 @@
 
 # ![Screenshot-3.png](https://i.postimg.cc/rmY45N2D/Screenshot-3.png)
     Рисунок 21.1 Визуализация аспектов игры
-
+вапвапвава
