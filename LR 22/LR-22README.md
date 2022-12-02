@@ -19,7 +19,7 @@
      
 # ![Screenshot-10.png](https://i.postimg.cc/YCcVBTyC/Screenshot-10.png)
 
-     Рисунок 22.4 -
+     Рисунок 22.4 - добавили второго игрока и также добавили коллайдер
      
 # ![Screenshot-11.png](https://i.postimg.cc/L51czS0G/Screenshot-11.png) 
 
