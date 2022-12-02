@@ -16,7 +16,7 @@
                     Рисунок 23.3 - Размещаем спрайты на сцене
                     
 # [![Screenshot-5.png](https://i.postimg.cc/tT4rGxYc/Screenshot-5.png)](https://postimg.cc/qtWc8gcc)
-   Рисунок 23.4 - Скрипт для хранения экземпляра объектов
+                   Рисунок 23.4 - Скрипт для хранения экземпляра объектов
    
 # [![Screenshot-6.png](https://i.postimg.cc/tCqFSjnr/Screenshot-6.png)](https://postimg.cc/dDf73gBd)
      Рисунок 23.5 - Добавили Cinemachine и настроили каамеру слежения за игроком
