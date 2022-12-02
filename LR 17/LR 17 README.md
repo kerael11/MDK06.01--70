@@ -8,3 +8,8 @@
 
 # [![Screenshot-7.png](https://i.postimg.cc/y6hg9bx7/Screenshot-7.png)](https://postimg.cc/LhX8FvjW)
        Рисунок 17.1 - Главная игровая сцена и настройка моделей игры
+       
+# ![пипескрипт](https://user-images.githubusercontent.com/119409903/205280665-a17d8bf8-b946-4f29-a94c-8f71e8f98ffa.jpg)
+       Рисунок 17.2 Это пипескрипт
+# ![гамеманагер](https://user-images.githubusercontent.com/119409903/205280671-f9e2aed6-5aab-49ec-8eaa-8e7979794f6d.jpg)
+       Рисунок 17.3 Это гамеманагер
